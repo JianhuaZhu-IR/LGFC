@@ -1,4 +1,3 @@
-# LGFC (large gap fracture contour)
 
 Our research data can be accessed through the link below.
 
