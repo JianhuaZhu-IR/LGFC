@@ -13,5 +13,5 @@ Bibliographic format：
   volume={31},
   number={3},
   pages={53-64},
-  keywords={Feature extraction;Image edge detection;Image registration;Accuracy;Gray-scale;Remote sensing;Image preprocessing;Multisensory integration;Robustness},
+  keywords={Feature extraction; Image edge detection; Image registration; Accuracy; Gray-scale; Remote sensing; Image preprocessing; Multisensory integration; Robustness},
   doi={10.1109/MMUL.2024.3421575}}
